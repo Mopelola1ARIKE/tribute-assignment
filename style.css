@@ -1,0 +1,24 @@
+.nav {
+    overflow: hidden;
+    display: block;
+    margin: 50px 50px 50px 50px;
+    background-color: black;
+}
+
+ul {
+    list-style-type: none;
+}
+
+li {
+    float: left;
+    padding-right: 10px;
+    color: white;
+}
+p{
+    text-align: center;
+    font-family: sans-serif;
+}
+.style{
+    font-size: 15px;
+    font-family: sans-serif;
+}
